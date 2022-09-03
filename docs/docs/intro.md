@@ -4,44 +4,11 @@ sidebar_position: 1
 
 # Tutorial Intro
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Project ini dinamakan ICP Challage. ICP adalah singkatan dari Indonesia Cybernetics Project, dengan harapan mengenalkan disiplin ilmu sibernetika ke khalayak luas. saya akan coba pejari Berbagai disiplin ilmu yang relate dengan sibernetika, mulai dari matematika, fisika, biologi, psikologi, hingga teknologi informasi.
 
-## Getting Started
+Project ini terinstapirasi dari Scott Young MIT Challenge, dimana ia mencoba mempelajari semua mata kuliah yang ada di MIT dalam waktu 1 tahun. Aku ingin menjadi orang yang mendesain kurikulum sibernetika dalam setahun ini. Aku tertarik dengan sibernetika karena ilmu ini dekat secara personal dengan diriku sendiri.   
 
-Get started by **creating a new site**.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
 
-### What you'll need
+## On the Road to ICP
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
