@@ -1,3 +1,0 @@
-# explanatorygap
-
-adalah suatu project 
