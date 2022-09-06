@@ -6,13 +6,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'ICP Challenge',
-  tagline: 'Cybernetics are cool',
-  url: 'https://tamkin.me',
+  title: 'Muhammad Rizkillah',
+  tagline: 'omw to Disidentifying Myself',
+  url: 'https://rizki.me',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/app.jpeg',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -57,10 +57,10 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Tamkin Indonesia',
+        title: 'A Nobody Blog',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/app.png',
+          src: 'img/app.jpeg',
         },
         items: [
           {
@@ -98,7 +98,7 @@ const config = {
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/acc3lerationism',
+                href: 'https://twitter.com/mrizklh',
               },
             ],
           },
@@ -116,7 +116,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Tamkin Indonesia. Built with Methylphenidate.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Muhammad Rizkillah. Built with Methylphenidate.`,
       },
       prism: {
         theme: lightCodeTheme,
