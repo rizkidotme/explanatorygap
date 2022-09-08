@@ -30,8 +30,13 @@ const config = {
   presets: [
     [
       'classic',
+
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
+        googleAnalytics: {
+          trackingID: 'G-BMHGR2M38H',
+          anonymizeIP: false,
+        },
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
@@ -48,6 +53,7 @@ const config = {
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
+          
         },
       }),
     ],
