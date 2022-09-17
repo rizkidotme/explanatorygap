@@ -38,3 +38,8 @@ Well how do we actually measure the quality of the raw idea? What we did was to 
 
 What we found was quite interesting. The first thing that we found was that experts are actually not so good at predicting success. **We found that four random consumers, just randomly selected consumers, actually provide a better estimate of idea quality than seven experts**. That is consumers themselves are the best single indicator of the quality of an idea and is the best single predictor of whether the product will sell or not. And that in fact, four consumers provide a better estimate than even a larger number of experts, than even seven experts.
 
+## accessing oportunities 
+
+## the tournament apporach
+
+The ugly truth of entrepreneurship is that any single opportunity is plagued by uncertainty. Is the need real? Will my solution work? What will my competitors do? What's going to happen in the macro economy? Will our team be able to execute? Will our partners deliver? What happens to the regulatory environment? There's really nothing you can do to eliminate all uncertainty. 
