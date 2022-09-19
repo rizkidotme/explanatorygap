@@ -8,7 +8,9 @@ How do i know i am in the right path?  there many things you to reduce uncertain
 
 Kaplan–Meier estimator in business is a good way to estimate the probability of success.
 
-$$\widehat{S}(t)=\prod_{i: t_i \leq t}\left(1-\frac{d_i}{n_i}\right)$$
+$$
+\widehat{S}(t)=\prod_{i: t_i \leq t}\left(1-\frac{d_i}{n_i}\right)
+$$
 where $t_i$ is the time of the $i$th event, $d_i$ is the number of deaths at time $t_i$, and $n_i$ is the number of subjects at risk at time $t_i$.
 
 we can say that companies that change their core business from the initial business plan are more likely to succed than the companies that stick to the initial business plan. this is because the nature of the business is changing. the initial business plan is not the best business plan.
@@ -38,7 +40,6 @@ Well how do we actually measure the quality of the raw idea? What we did was to 
 
 What we found was quite interesting. The first thing that we found was that experts are actually not so good at predicting success. **We found that four random consumers, just randomly selected consumers, actually provide a better estimate of idea quality than seven experts**. That is consumers themselves are the best single indicator of the quality of an idea and is the best single predictor of whether the product will sell or not. And that in fact, four consumers provide a better estimate than even a larger number of experts, than even seven experts.
 
-## accessing oportunities 
 
 ## the tournament apporach
 
