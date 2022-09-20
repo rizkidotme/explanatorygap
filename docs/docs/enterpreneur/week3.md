@@ -54,3 +54,25 @@ early stage of enterpreneurship dont need necessarily a lot of data. you can do 
 - ask for spesific need rather than general need.
 
 
+## Competitive Analysis
+
+Competitive analysis is the process of evaluating the competition by identifying their strengths and weaknesses. The purpose of a competitive analysis is to determine your competitive advantage. The competitive analysis is a critical component of the business plan for new ventures. It is also a useful exercise for established businesses to evaluate their position relative to competitors. 
+
+### tactics and strategy
+various strategies that startups can use to stay competitive in the face of competition from larger, more established companies. These strategies include developing a theory as to why the incumbent will not have incentives to come in and aggressively compete against the startup right away, giving a stake in the success of the startup to the incumbent, and being able to translate short term opportunity windows that the startup is able to get into further success.
+
+positioning your brand to avoid direct competition with the market leader.the basics of competitive advantage is to find a way to differentiate your product or service from the competition.
+
+- value chain. that is the process by which a company receives raw materials, adds value to them through various stages of production, and ultimately delivers a finished product to the customer or client. client here can be another companies. 
+- disruptive strategy. a strategy that is designed to create a new market by introducing a new product or service that is perceived as being radically different from existing products or services. 
+- blue ocean strategy. a strategy that creates uncontested market space and makes the competition irrelevant. 
+
+## Generating business ideas.
+
+### group vs individual idea generation
+
+ have actually done some empirical research in this area comparing two different approaches to generating ideas. In the group approach we had teams of four people working together at the same time for 30 minutes. In what I call the hybrid approach, we take those same four people, had them first work for 10 minutes, independently and in parallel and alone.
+
+Then we had those same four people come back together and work for another 20 minutes, but this time in groups. What we found was that the hybrid approach produced about 20% more ideas and about 30% more ideas that were rated as high quality ideas.
+
+So, we had a lot more ideas and a lot more good ideas. So, when you are generating ideas, first work independently, in parallel, and alone and then come back together and work in groups. These are the two basic principles for generating ideas.
