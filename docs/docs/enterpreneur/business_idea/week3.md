@@ -70,9 +70,19 @@ positioning your brand to avoid direct competition with the market leader.the ba
 ## Generating business ideas.
 
 ### group vs individual idea generation
+![this is a picture of group vs individual idea generation](../../static/img/bussinesidea.png)
 
- have actually done some empirical research in this area comparing two different approaches to generating ideas. In the group approach we had teams of four people working together at the same time for 30 minutes. In what I call the hybrid approach, we take those same four people, had them first work for 10 minutes, independently and in parallel and alone.
+somebody have actually done some empirical research in this area comparing two different approaches to generating ideas. In the group approach we had teams of four people working together at the same time for 30 minutes. In what I call the hybrid approach, we take those same four people, had them first work for 10 minutes, independently and in parallel and alone.
 
 Then we had those same four people come back together and work for another 20 minutes, but this time in groups. What we found was that the hybrid approach produced about 20% more ideas and about 30% more ideas that were rated as high quality ideas.
 
 So, we had a lot more ideas and a lot more good ideas. So, when you are generating ideas, first work independently, in parallel, and alone and then come back together and work in groups. These are the two basic principles for generating ideas.
+
+## Planning: Assumptions 
+
+startup are build on assumptions and hypothesis. you need to be aware of the assumptions and hypothesis that you are making. make sure the assumptions and hypothesis that you are making are realistic. your assumptions is often unspoken. failures to recognize assumptions can lead to failure or missed opportunities. 
+
+so how do we make sure that we are not making assumptions that are unrealistic? well... 
+
+![this is a picture of planning: assumptions](../../static/img/assumption.png)
+
