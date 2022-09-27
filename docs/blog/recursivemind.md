@@ -1,4 +1,11 @@
-﻿
+---
+slug: 2   
+title: recursive mind 
+authors: rizki
+tags: [ideas,psychology]
+date: 2022-09-08
+---
+ 
 ![](Aspose.Words.5e714feb-f26f-4a23-a99b-538574b56487.001.jpeg)
 
 
